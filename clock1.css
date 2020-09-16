@@ -1,0 +1,18 @@
+#clock{
+    width: 500px;
+    margin: 240px;
+    font-size: 60px;
+    padding: 500px -400px;
+    border: 2px solid blueviolet;
+    background-color: rgb(236, 41, 41);
+}
+.time{
+    border: 2px solid rgb(255, 62, 78);
+    background-color: rgb(41, 40, 43);
+
+}
+h2{
+    color: aliceblue;
+    width: 500px;
+    margin: 60px;
+}
