@@ -1,2 +1,3 @@
-# front-end-learning-code
-the learning code
+# digital clock
+the learning working of clock using javascript
+html,css
